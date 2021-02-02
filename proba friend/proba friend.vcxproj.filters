@@ -24,12 +24,30 @@
     <ClCompile Include="Class2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NewBaseClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewClass3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewClass4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Class1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Class2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewClass3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewClass4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewBaseClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

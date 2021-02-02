@@ -142,10 +142,16 @@
     <ClCompile Include="Class1.cpp" />
     <ClCompile Include="Class2.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NewBaseClass.cpp" />
+    <ClCompile Include="NewClass3.cpp" />
+    <ClCompile Include="NewClass4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Class1.h" />
     <ClInclude Include="Class2.h" />
+    <ClInclude Include="NewBaseClass.h" />
+    <ClInclude Include="NewClass3.h" />
+    <ClInclude Include="NewClass4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
